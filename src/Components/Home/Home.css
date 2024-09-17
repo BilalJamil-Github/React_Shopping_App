@@ -1,0 +1,46 @@
+#mainDiv{
+    background-image: url('https://img.freepik.com/premium-photo/photography-beautiful-young-happy-fashion-model-woman_1288657-24992.jpg');
+    width: 100%;
+    height: 91vh;
+    background-size: cover;
+    position: absolute;
+    left: 0;
+    display: flex; 
+
+}
+
+.smallhead{
+     font-size: 30px;
+}
+
+.mainhead{
+    font-size: 80px;
+}
+
+.innerDiv{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    width: 50%;
+    margin-top: 250px;
+    margin-left: 300px;
+}
+
+.left{
+    width: 50%;
+}
+
+.btn{
+    width: 20%;
+    height: 5vh;
+    background-color: #FE7C7F;
+    color: white;
+    border: none;
+    font-size: 25px;
+    margin-left: 10px;
+}
+
+.btn:hover{
+    background-color: white;
+    color: #FE7C7F;
+}

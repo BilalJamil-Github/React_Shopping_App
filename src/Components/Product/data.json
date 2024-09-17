@@ -1,0 +1,74 @@
+[
+    {
+        "name": "Gucci",
+        "type": "Shirt",
+        "price": "500",
+        "id": 0,
+        "star": 4,
+        "img": "https://unze.com.pk/cdn/shop/products/MC1613-1.jpg?v=1688638121",
+        "details": "This Gucci shirt is a blend of elegance and comfort, featuring high-quality fabric that feels soft against the skin. Its classic design and sophisticated tailoring make it ideal for both formal and casual events."
+    },
+    {
+        "name": "Versace",
+        "type": "Shirt",
+        "price": "600",
+        "id": 1,
+        "star": 3,
+        "img": "https://fittedshop.com/cdn/shop/files/1_ef307dcc-7da9-4bad-be7d-52abd9face71.jpg?v=1702284875",
+        "details": "This Versace shirt features unique and eye-catching designs. Made from premium materials, it offers both style and comfort. Perfect for those who want to showcase their fashion-forward taste and stand out in any crowd."
+    },
+    {
+        "name": "Armani",
+        "type": "Shirt",
+        "price": "250",
+        "id": 2,
+        "star": 4,
+        "img": "https://d2z0lqci37nukm.cloudfront.net/media/catalog/product/cache/59d1d247a0855e7654a8594881fa0c03/3/7/37091312_52_bignldj76ggdbuay.jpg",
+        "details": "The Armani shirt combines classic fit with contemporary style, offering an elegant look at an affordable price. Crafted from high-quality fabric, it provides both comfort and durability. The shirt's timeless design makes it suitable for a variety of occasions."
+    },
+    {
+        "name": "Louis Vuitton",
+        "type": "Shirt",
+        "price": "200",
+        "id": 3,
+        "star": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgl0zrdg1TgfUNvAwSV_5UPL5NglJivYJ-hIRRYIiZhQRiNc3kjw3ZqimuJZhvGSEeQs&usqp=CAU",
+        "details": "Elevate your wardrobe with this Louis Vuitton shirt, renowned for its luxurious feel and sophisticated design. Crafted from premium materials, it offers exceptional comfort and a refined look. The shirt features a sleek and modern design that enhances any outfit."
+    },
+    {
+        "name": "Hugo Boss",
+        "type": "Shirt",
+        "price": "750",
+        "id": 4,
+        "star": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY110jB_Mq7SjCYe3qGiH5V-vMimN7yqa2PA&s",
+        "details": "The Hugo Boss shirt is a sophisticated choice, designed for both comfort and style. Made from high-quality fabrics, it features a contemporary cut that fits perfectly into both business and casual settings. The shirt's sleek design makes it a versatile addition."
+    },
+    {
+        "name": "Tom Ford",
+        "type": "Shirt",
+        "price": "550",
+        "id": 5,
+        "star": 3,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRue46U-ACHP6CVI52UMz0jThezdRtEsEKT4Q&s",
+        "details": "The Tom Ford shirt is crafted with a modern design and superior quality, making it a standout piece in any wardrobe. Made from luxurious fabrics, it provides a comfortable fit while adding a touch of class to any outfit. Ideal for a variety of occasions."
+    },
+    {
+        "name": "Louis Vuitton",
+        "type": "Shirt",
+        "price": "200",
+        "id": 3,
+        "star": 5,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFgl0zrdg1TgfUNvAwSV_5UPL5NglJivYJ-hIRRYIiZhQRiNc3kjw3ZqimuJZhvGSEeQs&usqp=CAU",
+        "details": "This premium Louis Vuitton shirt is known for its exceptional quality and attention to detail. Made from luxurious materials, it offers both comfort and a polished look. Its elegant design is perfect for high-profile events where making a statement is important."
+    },
+    {
+        "name": "Hugo Boss",
+        "type": "Shirt",
+        "price": "750",
+        "id": 4,
+        "star": 4,
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRY110jB_Mq7SjCYe3qGiH5V-vMimN7yqa2PA&s",
+        "details": "This Hugo Boss shirt features a stylish design with a high-fashion appeal, crafted for those who appreciate sophistication and elegance. Made from top-quality materials, it provides both comfort and durability. The shirt's contemporary cut and refined details make it an excellent choice."
+    }
+]
